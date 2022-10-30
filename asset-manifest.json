@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://swapnilbawane.github.io/csb-tgpx92/static/css/main.7aa14cc8.chunk.css",
+    "main.js": "https://swapnilbawane.github.io/csb-tgpx92/static/js/main.dd711ae7.chunk.js",
+    "main.js.map": "https://swapnilbawane.github.io/csb-tgpx92/static/js/main.dd711ae7.chunk.js.map",
+    "runtime-main.js": "https://swapnilbawane.github.io/csb-tgpx92/static/js/runtime-main.8c95d55a.js",
+    "runtime-main.js.map": "https://swapnilbawane.github.io/csb-tgpx92/static/js/runtime-main.8c95d55a.js.map",
+    "static/js/2.787d9ace.chunk.js": "https://swapnilbawane.github.io/csb-tgpx92/static/js/2.787d9ace.chunk.js",
+    "static/js/2.787d9ace.chunk.js.map": "https://swapnilbawane.github.io/csb-tgpx92/static/js/2.787d9ace.chunk.js.map",
+    "index.html": "https://swapnilbawane.github.io/csb-tgpx92/index.html",
+    "static/css/main.7aa14cc8.chunk.css.map": "https://swapnilbawane.github.io/csb-tgpx92/static/css/main.7aa14cc8.chunk.css.map",
+    "static/js/2.787d9ace.chunk.js.LICENSE.txt": "https://swapnilbawane.github.io/csb-tgpx92/static/js/2.787d9ace.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c95d55a.js",
+    "static/js/2.787d9ace.chunk.js",
+    "static/css/main.7aa14cc8.chunk.css",
+    "static/js/main.dd711ae7.chunk.js"
+  ]
+}
